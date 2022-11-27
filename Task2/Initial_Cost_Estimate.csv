@@ -1,0 +1,20 @@
+Estimate summary								
+Upfront cost	Monthly cost	Total 12 months cost	Currency					
+0	8299.37	99592.44	USD					
+		* Includes upfront cost						
+								
+								
+Detailed Estimate								
+Group hierarchy	Region	Description	Service	Upfront	Monthly	First 12 months total	Currency	Configuration summary
+My Estimate	US East (N. Virginia)		Amazon EC2	0	1354.35	16252.2	USD	"Operating system (Linux), Quantity (8), Pricing strategy (EC2 Instance Savings Plans 1 Year No Upfront), Storage amount (30 GB), Instance type (m6gd.2xlarge)"
+My Estimate	US East (N. Virginia)		Amazon RDS for MySQL	0	6586.44	79037.28	USD	"Storage for each RDS instance (General Purpose SSD (gp2)), Storage amount (300 GB), Quantity (1), Instance type (db.m5.12xlarge), Utilization (On-Demand only) (100 %Utilized/Month), Deployment option (Multi-AZ), Pricing strategy (OnDemand)"
+My Estimate	US East (N. Virginia)		Application Load Balancer	0	173.01	2076.12	USD	Number of Application Load Balancers (2)
+My Estimate	US East (N. Virginia)		Amazon CloudFront	0	0	0	USD	
+My Estimate	US East (N. Virginia)		S3 Standard	0	2.57	30.84	USD	S3 Standard storage (100 GB per month)
+My Estimate	US East (N. Virginia)		Data Transfer	0	0	0	USD	
+My Estimate	US East (N. Virginia)		Amazon Route 53	0	183	2196	USD	"Hosted Zones (1), Number of Elastic Network Interfaces (2)"
+								
+								
+								
+Acknowledgement								
+"* AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services."								
